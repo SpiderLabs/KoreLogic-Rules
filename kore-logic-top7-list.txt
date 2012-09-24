@@ -1,0 +1,7 @@
+KoreLogicRulesPrependAppend1-4
+KoreLogicRulesL33t
+KoreLogicRulesReplaceNumbers
+KoreLogicRulesAddJustNumbersLimit8
+KoreLogicRulesAppendNumbers_and_Specials_Simple
+KoreLogicRulesReplaceLetters
+KoreLogicRulesReplaceLettersCaps
