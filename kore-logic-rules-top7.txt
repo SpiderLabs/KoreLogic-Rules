@@ -3,6 +3,8 @@
 # Modified and updated by Garret Picchioni - Trustwave SpiderLabs
 ####################################################################
 
+
+[List.Rules:KoreLogicRulesTop7]
 #KoreLogicRulesPrependAppend1-4
 cAz"[0-9]"
 Az"[0-9]"
