@@ -6,10 +6,10 @@ Updated version of the 2010 KoreLogic password cracking rules for John the Rippe
 Notes
 --
 When discussing cracking times, the following criteria will be utilized:
-Latest version of John the Ripper Jumbo Pack compiled w/ MPI support
-8 x 2.6ghz AMD Opteron Cores (Bulldozer)
-1,167,382 word dictionary
-2,808,167 hashes
+ - Latest version of John the Ripper Jumbo Pack compiled w/ MPI support
+ - 8 x 2.6ghz AMD Opteron Cores (Bulldozer)
+ - 1,167,382 word dictionary
+ - 2,808,167 hashes
 
 Initial References
 --
